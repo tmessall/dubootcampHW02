@@ -1,8 +1,13 @@
-.row div {
+.hasOutline {
     outline: solid gray 1px;
 }
 
 .aboutMe {
     font-family: 'Dosis', sans-serif;
     color: lightblue;
+}
+
+img {
+    height: 250px;
+    width: 200;
 }
