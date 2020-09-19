@@ -1,0 +1,8 @@
+.row div {
+    outline: solid gray 1px;
+}
+
+.aboutMe {
+    font-family: 'Dosis', sans-serif;
+    color: lightblue;
+}
