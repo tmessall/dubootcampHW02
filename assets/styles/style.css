@@ -1,14 +1,10 @@
-.hasOutline {
-    outline: solid gray 1px;
-}
-
-h1 {
-    font-family: 'Dosis', sans-serif;
-    color: lightblue;
-}
-
 nav {
     font-family: 'Source Code Pro', monospace;
+    background-color: teal;
+}
+
+body {
+    background-color: lightseagreen;
 }
 
 footer {
@@ -20,12 +16,22 @@ footer {
     text-align: center;
 }
 
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color: lightblue;
+}
+
 a {
     color: lightblue;
+}
+
+.hasOutline {
+    outline: solid teal 4px;
 }
 
 @media screen and (max-width: 500px) {
     footer {
         height: 120px;
+        line-height: 40px;
     }
 }
