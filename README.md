@@ -18,6 +18,6 @@ This page has a form which can be filled out to contact me. However, the javascr
 
 ### Portfolio
 
-![Portfolio Page](.assets/images/portfolio.png)
+![Portfolio Page](./assets/images/portfolio.png)
 
 This page currently just contains some placeholder images, but one day I hope for it to have pictures and links of true projects that I've done.
