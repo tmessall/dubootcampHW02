@@ -8,6 +8,7 @@ body {
 }
 
 footer {
+    padding-top: 10;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -21,17 +22,29 @@ h1 {
     color: lightblue;
 }
 
-a {
+footer a {
     color: lightblue;
+}
+
+.main {
+    padding-bottom: 200px;
 }
 
 .hasOutline {
     outline: solid teal 4px;
 }
 
+.portfolio {
+    text-align: center;
+}
+
 @media screen and (max-width: 500px) {
     footer {
         height: 120px;
         line-height: 40px;
+    }
+
+    main {
+        padding-bottom: 500px;
     }
 }
